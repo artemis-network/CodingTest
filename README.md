@@ -12,7 +12,6 @@ Aim of this test is three fold,
 You will be scored on,
 
 - coding standard, comments and style
-- unit testing strategy
 - overall solution design
 - appropriate use of source control
 
@@ -33,10 +32,10 @@ Please check the Flickr API documentation from the following URL:
 
 ## Details
 
-- Write a web application - backend built using JavaScript/NodeJS/ExpressJS and frontend developed using Angular6+. 
+- Write a web application - backend built using JavaScript/NodeJS/ExpressJS and frontend developed using any framework
 - On page load the applications should load the public feed images in either a list or grid view in the **form of carousel.**
 - Use any other third party library of your choice if needed
 
 You can use the [Twitter Bootstrap](http://getbootstrap.com/) to make your application look good.
 
-Bonus if you deploy the app as a public site using any of the free services
+Bonus if you deploy the app as a public site using any of the free services (heroku, 000webhost, etc.)
