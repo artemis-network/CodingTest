@@ -21,7 +21,7 @@ You will be scored on,
 - Candidate should put their test results on a public code repository hosted on Github
 - Once test is completed please share the Github repository URL to hiring team so they can review your work
 
-# Challenge - Flickr feed viewer and search
+# Challenge
 
 Write a simple web application that reads data from Flickr's public feeds and displays the images on the page to the user.
 Please check the Flickr API documentation from the following URL:
